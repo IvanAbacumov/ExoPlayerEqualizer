@@ -1,6 +1,7 @@
 # ExoPlayerEqualizer
 Simple example AudioPlayer with effect Equalizer.
 
+## Features
 * ExoPlayer 2
 * Equalizer
 * SeekBar and Spinner
